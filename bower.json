@@ -1,0 +1,21 @@
+{
+  "name": "sample-foo",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sabertoothtigerawr/sample-foo",
+  "authors": [
+    "sabertoothtigerawr <existsfanclub@gmail.com>"
+  ],
+  "description": "bower resist test sample-foo",
+  "main": "main.js",
+  "keywords": [
+    "sample"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
